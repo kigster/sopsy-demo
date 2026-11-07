@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+!*.encrypted
+*.key
+*.pem
+*.private
+*.public
+.env
+!.env.encrypted
