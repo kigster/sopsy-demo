@@ -7,8 +7,9 @@ recipients:
 - name: Alan Turing
   public_key: age1yubikey1qw5lddj4asjv92nuh3wffudevtmxn8vswlpd8gvs96gfl80yae9nyufgmlx
   username: alan
-  state: pending
   requested_at: 2026-11-07T19:51:51Z
+  approved_at: 2026-11-07T19:52:16Z
+  approved_by: admin (grace)
   break_glass: false
   store: yubikey
 encrypted_globs:
